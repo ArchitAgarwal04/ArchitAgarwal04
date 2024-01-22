@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/archit-agarwal-486ba5256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit-agarwal-486ba5256" height="30" width="40" /></a>
-<a href="https://instagram.com/agarwal_archit04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agarwal_archit04" height="30" width="40" /></a>
+<a href="https://instagram.com/archit_ag04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agarwal_archit04" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aag_archit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aag_archit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/archit_ag1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="archit_ag1608" height="30" width="40" /></a>
 </p>
