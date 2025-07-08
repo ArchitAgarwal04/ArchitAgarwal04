@@ -1,27 +1,73 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f2ef04a-4afe-4b63-bda9-b5ea5e2eb63e/dbxzjpi-05d0cdc8-d446-432c-94bf-305905bf260b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmMmVmMDRhLTRhZmUtNGI2My1iZGE5LWI1ZWE1ZTJlYjYzZVwvZGJ4empwaS0wNWQwY2RjOC1kNDQ2LTQzMmMtOTRiZi0zMDU5MDViZjI2MGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eCg-kzgoDLOZOGD1Ya17tHGOL6M_mK_sGCU8TNWNNd0)](https://ArchitAgarwal04.io)
-<h1 align="center">Hi 👋, I'm Archit Agarwal</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/39/39ed57a3b878a118af2d95b81aa231bc_w200.webp">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=architagarwal04&label=Profile%20views&color=0e75b6&style=flat" alt="architagarwal04" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **architagarwal147@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/archit-agarwal-486ba5256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit-agarwal-486ba5256" height="30" width="40" /></a>
-<a href="https://instagram.com/archit_ag04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agarwal_archit04" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aag_archit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aag_archit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/archit_ag1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="archit_ag1608" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Archit+Agarwal;Frontend+Developer+%7C+Full+Stack+Enthusiast;Competitive+Coder+%7C+Tech+Community+Leader" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<!-- Profile Picture (optional) -->
+<p align="center">
+  <img src="https://i.gifer.com/origin/39/39ed57a3b878a118af2d95b81aa231bc_w200.webp" width="200" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=architagarwal04&show_icons=true&locale=en&layout=compact" alt="architagarwal04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=architagarwal04&show_icons=true&locale=en" alt="architagarwal04" /></p>
+<h2 align="center"> 🚀 About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=architagarwal04&" alt="architagarwal04" /></p>
+- 🎓 B.Tech Student | Co-Technical Lead @ CoDev Club  
+- 🧠 Competitive Programmer (Knight @ LeetCode, Pupil @ Codeforces)  
+- 🛠️ Passionate about **Web Development, AI Tools**, and **Building Scalable Products**
+- ⚡ Finalist @ Quasar 3.0 & Grapha-e-thon 2.0 (National Hackathons)
+- 👨‍💻 Currently working on: **MindGuard – Mental Health SaaS**, `OSimulate`, `FormCraft`
+- ✉️ Reach me at: **architagarwal147@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/archit-agarwal-486ba5256"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/archit_ag04"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://codeforces.com/profile/aag_archit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" height="30" /></a>
+  <a href="https://leetcode.com/archit_ag1608"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" /></a>
+  <a href="https://architagarwal04.github.io/Apple-Vision/"><img src="https://img.shields.io/badge/Portfolio-ArchitAgarwal04.io-%237159c1?style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vercel,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=architagarwal04&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architagarwal04&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=architagarwal04&theme=radical" height="150" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
+
+| Name | Description | Tech |
+|------|-------------|------|
+| 🧠 [MindGuard](https://github.com/architagarwal04/mindguard) | Mental health SaaS platform with Doctor Dashboard & Patient Chat | Next.js, Tailwind, MongoDB |
+| 🧾 [FormCraft](https://github.com/architagarwal04/formcraft) | AI-powered Form Builder with export & auto-email | Next.js, LangChain, Tailwind |
+| ⚙️ [OSimulate](https://github.com/architagarwal04/osimulate) | Visual simulator for OS page replacement algorithms | Next.js, C++, Express.js |
+| 🏁 [Pathfinding Race](https://github.com/architagarwal04/pathfinding-race) | Visualizes BFS, Dijkstra’s, and A* racing together | HTML, CSS, JavaScript |
+
+---
+
+## 📈 Profile Views & Contributions
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=architagarwal04&label=Profile%20views&color=0e75b6&style=flat" alt="architagarwal04" />
+  <img src="https://raw.githubusercontent.com/architagarwal04/architagarwal04/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
